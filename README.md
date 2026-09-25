@@ -1,9 +1,9 @@
 # CE418-SAD
-Solutions to Dr. Habibi's CE418: Systems Analysis and Design (Sharif University of Technology - Spring 2024) Assignments
+Solutions to Dr. Jafar Habibi's CE418: Systems Analysis and Design (Sharif University of Technology - Spring 2024) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments for the CE418: Systems Analysis and Design course at the Sharif University of Technology, Spring 2024, taught by Dr. Habibi.
+This repository contains solutions to the assignments for the CE418: Systems Analysis and Design course at the Sharif University of Technology, Spring 2024, taught by Dr. Jafar Habibi.
 
 ## Table of Contents
 
